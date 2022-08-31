@@ -24,7 +24,7 @@ Os livros devem ter:
 Obrigatórios
 
 - Disponibilizar documentação o suficiente para a execução do projeto no README
-- Utilizar banco de dados postgres
+- Utilizar banco de dados postgres ou mongodb (Justificar a sua escolha)
 
 3 - Opcionais
 
