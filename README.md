@@ -28,7 +28,7 @@ Obrigatórios
 
 3 - Opcionais
 
-Documentar decisões tomadas durante o desafio técnico
+Documentar decisões tomadas durante o desafio técnico <br>
 Utilizar docker
 
 Ao terminar o desafio, encaminhe o link do repositório para o email leonardomm@taghos.com.br
