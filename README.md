@@ -37,4 +37,4 @@ Os livros devem ter:
 - Documentar decisões tomadas durante o desafio técnico
 - Utilizar docker
 
-Ao terminar o desafio, encaminhe o link do repositório para os emails `leonardomm@taghos.com.br` e `matheusgbr@taghos.com.br` com o título `Vaga backend jr`
+Ao terminar o desafio, encaminhe o link do repositório e seu perfil do LinkedIN para os emails `leonardomm@taghos.com.br` e `matheusgbr@taghos.com.br` com o título `Vaga backend jr`.
