@@ -1,34 +1,40 @@
-Desafio para backend em GOlang
+<div align="center">
+<img src="https://www.taghos.com.br/wp-content/uploads/sites/3/2023/09/logo_azul_corel14.png"/>
+</div>
 
-Bem-vindo ao desafio técnico para backend em GOlang da Taghos!!
+### Desafio para Backend GoLang Jr.
 
-1 - O desafio
+Bem-vindo ao desafio técnico para backend em GoLang da Taghos!
+
+<b>1 - O desafio</b>
 
 Para a resolução deste desafio, esperamos que você desenvolva uma API Rest que contemple os livros de um usuário.
 
-- Como usuário eu gostaria de cadastrar um livro.
-- Como usuário eu gostaria de atualizar um livro.
-- Como usuário eu gostaria de listar um livro.
-- Como usuário eu gostaria de listar todos os livros.
-- Como usuário eu gostaria de deletar um livro.
+Deve ser possível:
+
+- Cadastrar um livro
+- Atualizar um livro
+- Listar um livro
+- Listar todos os livros
+- Deletar um livro
 
 Os livros devem ter:
 
 - Título
-- Categoria.
-- Autor.
-- Sinopse.
+- Categoria
+- Autor
+- Sinopse
 
-2 - Requisitos técnicos
+<b>2 - Requisitos técnicos</b>
 
-Obrigatórios
+<b>Obrigatórios</b>
 
-- Disponibilizar documentação o suficiente para a execução do projeto no README
-- Utilizar banco de dados postgres ou mongodb (Justificar a sua escolha)
+- Disponibilizar documentação suficiente para a execução do projeto no README
+- Utilizar banco de dados PostgreSQL ou MongoDB (Justifique a sua escolha)
 
-3 - Opcionais
+<b>Opcionais</b>
 
-Documentar decisões tomadas durante o desafio técnico <br>
-Utilizar docker
+- Documentar decisões tomadas durante o desafio técnico
+- Utilizar docker
 
-Ao terminar o desafio, encaminhe o link do repositório para o email leonardomm@taghos.com.br
+Ao terminar o desafio, encaminhe o link do repositório para os emails `leonardomm@taghos.com.br` e `matheusgbr@taghos.com.br` com o título `Vaga backend jr`
